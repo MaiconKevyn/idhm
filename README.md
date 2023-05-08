@@ -9,7 +9,7 @@ Os dados utilizados neste projeto estão disponíveis no kaggle.com, que contém
 
 <img src="https://user-images.githubusercontent.com/101146083/236711198-50d878dc-1a46-435a-b9db-7589c41fb570.png" alt="Imagem IDHM" width="350"/>
 
-Onde espvida é a expectativa de vida e rdpc é a renda per capita. Equaçẽos retiradas do site http://www.dhnet.org.br/
+Onde espvida é a expectativa de vida e rdpc é a renda per capita. Equaçoes retiradas do site http://www.dhnet.org.br/
 
 Ao executar o programa, o usuário será solicitado a fornecer um valor mínimo de habitantes que o município deve ter para ser considerado na análise. Isso permite filtrar os municípios com base no tamanho da população, focando apenas nos que atendem ao critério estabelecido pelo usuário.
 

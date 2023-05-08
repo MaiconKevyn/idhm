@@ -20,7 +20,7 @@ Após inserir o valor mínimo de habitantes, o programa processará os dados e e
 + Top 20 municípios com maior IDHM-L
 + Top 20 municípios com menor IDHM-R
 
-Exemplo do formato para um input de 30000:
+Exemplo do formato do output para um input de 30000:
 
 <img src="https://user-images.githubusercontent.com/101146083/236715009-52211d7c-657f-4f38-b798-af8b457d7c5c.png" alt="Imagem IDHM" width="450"/> 
 

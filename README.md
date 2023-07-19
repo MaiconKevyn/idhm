@@ -36,8 +36,7 @@ Ao executar o programa, o usuário será apresentado a duas opções para visual
 
 **1 - Ranking por estados:** Esta opção exibe um gráfico de barras que mostra o ranking dos municípios dentro de um estado específico, com base no IDHM. Os municípios são ordenados do maior para o menor IDHM, destacando as áreas com melhor qualidade de vida e aquelas que requerem atenção e melhorias.
 
-Por exemplo, ao selecionar esta opção e escolher o estado do Rio Grande do Sul (RS), o programa irá gerar um gráfico de barras que apresenta o ranking dos municípios gaúchos de acordo com o IDHM. Isso permite aos usuários identificar facilmente os municípios com os melhores e piores índices de desenvolvimento humano no estado.
-
+Por exemplo, se você escolher essa alternativa e definir o Rio Grande do Sul (RS) como o estado de interesse, o software criará um gráfico de barras ilustrando a classificação das cidades gaúchas baseado no IDHM. Isso possibilita aos usuários a identificação simplificada das cidades com os índices de desenvolvimento humano mais altos e mais baixos no estado.
 
 No gráfico de ranking por estados, por exemplo, para o estado do Rio Grande do Sul (RS), obtemos o seguinte gráfico:
 
